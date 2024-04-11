@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyril Liviyan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="IMG 400px" src="https://i.pinimg.com/originals/27/82/f9/2782f930fe6f9c911c19f0431da0eab5.jpg"/>
+<img align="right" alt="IMG 400px" src="https://i.pinimg.com/originals/27/82/f9/2782f930fe6f9c911c19f0431da0eab5.jpg"  width="300" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrilliviyan&label=Profile%20views&color=0e75b6&style=flat" alt="cyrilliviyan" /> </p>
 
